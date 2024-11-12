@@ -64,7 +64,7 @@ GoogleAPIKey = "xxxxxxxxxxx"
 [[d1_databases]]
 binding = "DB"
 database_name = "inbox-d1"
-database_id = "83eaf727-1476-41a5-928a-ef5be981bea2"
+database_id = "********-****-****-****-************"
 # database_id: String
 # replace with your database id
 # 请你替换为你的数据库 ID
